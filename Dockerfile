@@ -1,7 +1,7 @@
-FROM kettan/gobuntu:0.0.3
+FROM kettan/gobuntu:0.0.5
 
-MAINTAINER Wu, Chien-Lou
+MAINTAINER Wu, Chien-Lou(Kettan)
 
 ENV PATH $PATH:/usr/local/go/bin
 ENV GOPATH /root/go
-RUN go version
+CMD /bin/bash
