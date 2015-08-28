@@ -1,4 +1,4 @@
-FROM kettan/gobuntu:0.0.5
+FROM kettan/gobuntu:0.0.6
 
 MAINTAINER Wu, Chien-Lou(Kettan)
 
