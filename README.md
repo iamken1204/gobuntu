@@ -1,4 +1,4 @@
 # gobuntu
 
 * $GOPATH: `/root/go`
-* binary use: `$GOPATH/bin/yourGoBinary`
+* [dock hub](https://hub.docker.com/r/kettan/gobuntuab/)
